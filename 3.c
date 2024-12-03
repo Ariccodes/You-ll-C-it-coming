@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Decimal Precision 
+
 int main(){
   float x = 2.5;
   printf("%f\n\n",x);
