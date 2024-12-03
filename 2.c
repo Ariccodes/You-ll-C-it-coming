@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//More intriguing Questions about C
+
 int main(){
   /*This is a multi line comment. 
   It's handy to remember tye syntax 
