@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Interesting Queries related to C
+
 int main() {
   //What happens if you assign the function 'printf' to a variable? 
   int x = printf("Do you 'C' it coming?\n");
